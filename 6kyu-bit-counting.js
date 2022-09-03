@@ -12,7 +12,7 @@
     assert.strictEqual(countBits(9), 2);
     assert.strictEqual(countBits(10), 2);
  * Pseudocode
-    make number a string
+    make the input number a string
     use parseInt with a radix of 2 to turn it into binary
     then count the number of ones using reduce.
  */
