@@ -16,8 +16,9 @@
  *   XO("zzoo") => false
  * Pseudocode
     So I would start by declaring two variables to sum the x and o. then make sure all the letters are the same case by applying the toLowerCase() method on the string.
-    Then using a for loop i would traverse through the string and compare each letter and see if its an x or an o and then add that to the relevant sum
-    at the end of the for loop I would have my return statement to return 
+    Then using a for loop i would traverse through the string and compare each letter and see if its an x or an o and then add that to the relevant sum.
+    Once the for loop completes I would put my return statement. The return statement would return the result of if sum of x is equal to sum of o.
+    
 
  */
 function XO(str) {
