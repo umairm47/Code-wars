@@ -15,6 +15,7 @@ makeNegative(0.12); // return -0.12
     
  * Pseudocode
     use an if statement to test if given number is already negative otherwise multiple it by -1 and return it
+    Alternatively this can be accomplished using a terniary statement as seen below.
  */
     function makeNegative(num) {
         return(num<0 ? num: num*(-1))
