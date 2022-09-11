@@ -5,7 +5,7 @@ Given a string, detect whether or not it is a pangram. Return True if it is, Fal
 /**
  * 
  * Parameters: string
- * Return:true/False
+ * Return:a boolean
  * Examples: The quick brown fox jumps over the lazy dog
  * PseudoCode: 
  * 
