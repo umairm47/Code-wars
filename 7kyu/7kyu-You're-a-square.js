@@ -15,6 +15,7 @@
  *    25  =>  true
  *    26  =>  false
  *    -2 => false
+ *    9 => true
  * Pseudocode
   Check if its a negative number or if the square root of a number is an integer if thats not the case then return false
   otherwise return true.
