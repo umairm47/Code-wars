@@ -2,8 +2,8 @@
 In this kata Create a function that takes 2 integers in form of a string as an input, and outputs the sum (also as a string):
 
 /**
- * Parameters - an array
- * Return - an array
+ * Parameters - a string
+ * Return - a string
  * Examples
  * "4",  "5" --> "9"
  * "34", "5" --> "39"
