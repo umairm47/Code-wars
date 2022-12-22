@@ -2,7 +2,7 @@
 
 People are represented as arrows, < for a person moving left and > for a person moving right and - for an empty space
 
-A step represents a person moving forward one -, each person moves 1 step at the same time
+A step represents a person moving forward one -, each person moves 1 step at the same time.
 
 /**
  * Parameters - a string
